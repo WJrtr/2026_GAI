@@ -1,0 +1,610 @@
+{
+  "summary": {
+    "n_scored": 100,
+    "n_total": 100,
+    "evidence_score": 0.32169,
+    "correctness": 0.17
+  },
+  "per_paper": [
+    {
+      "title": "Revisiting Summarization Evaluation for Scientific Articles",
+      "evidence_score": 0.2692307692307692,
+      "correctness": 0.0,
+      "answer": "Contrary to the common belief, ROUGE is not much reliable."
+    },
+    {
+      "title": "Ancient-Modern Chinese Translation with a Large Training Dataset",
+      "evidence_score": 0.9811320754716981,
+      "correctness": 0.0,
+      "answer": "To build the large ancient-modern Chinese dataset, we collected 1.7K bilingual ancient-modern Chinese articles from the internet."
+    },
+    {
+      "title": "RUN through the Streets: A New Dataset and Baseline Models for Realistic Urban Navigation",
+      "evidence_score": 0.17881517881517883,
+      "correctness": 0.0,
+      "answer": "Table shows the results for the baseline models as well as the HUMAN measured performance on the task; The best baseline model is NO-MOVE, reaching an accuracy of 30.3% on single sentences and 0.3 on complete paragraphs; The human performance provides an upper bound for the RUN task performance, while the simple baselines provide lower bounds."
+    },
+    {
+      "title": "Why So Down? The Role of Negative (and Positive) Pointwise Mutual Information in Distributional Semantics",
+      "evidence_score": 0.2972972972972973,
+      "correctness": 0.0,
+      "answer": "Due to unreliable statistics."
+    },
+    {
+      "title": "Generating Diverse Numbers of Diverse Keyphrases",
+      "evidence_score": 0.06986556904094011,
+      "correctness": 0.0,
+      "answer": "F @; F @"
+    },
+    {
+      "title": "When to reply? Context Sensitive Models to Predict Instructor Interventions in MOOC Forums",
+      "evidence_score": 0.25641025641025644,
+      "correctness": 0.0,
+      "answer": "We propose novel attention based models to infer the amount of latent context necessary to predict instructor intervention."
+    },
+    {
+      "title": "Automated News Suggestions for Populating Wikipedia Entity Pages",
+      "evidence_score": 0.3171421544515494,
+      "correctness": 0.0,
+      "answer": "salience; relative authority; novelty"
+    },
+    {
+      "title": "State-of-the-Art Vietnamese Word Segmentation",
+      "evidence_score": 0.15384615384615383,
+      "correctness": 0.0,
+      "answer": "This paper reviews state-of-the-art approaches and systems for word segmentation in Vietnamese."
+    },
+    {
+      "title": "A Portuguese Native Language Identification Dataset",
+      "evidence_score": 0.8846153846153846,
+      "correctness": 0.0,
+      "answer": "16 tokens."
+    },
+    {
+      "title": "Attention-based method for categorizing different types of online harassment language",
+      "evidence_score": 0.1503267973856209,
+      "correctness": 0.0,
+      "answer": "baseline methods; multi-attention method having a projected layer"
+    },
+    {
+      "title": "Text Summarization using Abstract Meaning Representation",
+      "evidence_score": 0.25225225225225223,
+      "correctness": 0.0,
+      "answer": "We select few sentences from the story."
+    },
+    {
+      "title": "Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning",
+      "evidence_score": 0.19999999999999998,
+      "correctness": 0.0,
+      "answer": "Collect a sensationalism dataset and train a sensationalism scorer."
+    },
+    {
+      "title": "Shallow Syntax in Deep Water",
+      "evidence_score": 0.1359223300970874,
+      "correctness": 0.0,
+      "answer": "shallow syntactic features"
+    },
+    {
+      "title": "Improved Neural Relation Detection for Knowledge Base Question Answering",
+      "evidence_score": 0.12307692307692307,
+      "correctness": 0.0,
+      "answer": "Relation detection"
+    },
+    {
+      "title": "A BERT-Based Transfer Learning Approach for Hate Speech Detection in Online Social Media",
+      "evidence_score": 0.13461538461538464,
+      "correctness": 0.0,
+      "answer": "surface-level features such as bag of words, word-level and character-level $n$-grams, etc."
+    },
+    {
+      "title": "A Hybrid Architecture for Multi-Party Conversational Systems",
+      "evidence_score": 0.19780219780219782,
+      "correctness": 0.0,
+      "answer": "To the best of our knowledge, the architecture proposed in this paper is the first one in the state of the art designed to support the design and development of coordinated aware chatbots in a multiparty conversation."
+    },
+    {
+      "title": "How we do things with words: Analyzing text as social and cultural data",
+      "evidence_score": 0.13861386138613863,
+      "correctness": 0.0,
+      "answer": "thorny issues"
+    },
+    {
+      "title": "Predicting the Type and Target of Offensive Posts in Social Media",
+      "evidence_score": 0.3698490412076703,
+      "correctness": 0.0,
+      "answer": "A; type (B); target (C)"
+    },
+    {
+      "title": "Named Entity Recognition for Nepali Language",
+      "evidence_score": 0.15126050420168066,
+      "correctness": 0.0,
+      "answer": "grapheme-level representations."
+    },
+    {
+      "title": "Deep LSTM for Large Vocabulary Continuous Speech Recognition",
+      "evidence_score": 0.23255813953488372,
+      "correctness": 0.0,
+      "answer": "only a small part of the dataset"
+    },
+    {
+      "title": "TWEETQA: A Social Media Focused Question Answering Dataset",
+      "evidence_score": 0.24242424242424238,
+      "correctness": 0.0,
+      "answer": "we restrict ourselves only to tweets which have been used by journalists in news articles"
+    },
+    {
+      "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+      "evidence_score": 0.07407407407407407,
+      "correctness": 0.0,
+      "answer": "The siamese network architecture enables that fixed-sized vectors for input sentences can be derived."
+    },
+    {
+      "title": "Symmetric Regularization based BERT for Pair-wise Semantic Reasoning",
+      "evidence_score": 0.0909090909090909,
+      "correctness": 0.0,
+      "answer": "The BERT model."
+    },
+    {
+      "title": "Using General Adversarial Networks for Marketing: A Case Study of Airbnb",
+      "evidence_score": 0.3552631578947368,
+      "correctness": 0.0,
+      "answer": "The size of the Airbnb is not specified in the provided evidence."
+    },
+    {
+      "title": "Data Collection for Interactive Learning through the Dialog",
+      "evidence_score": 0.1,
+      "correctness": 0.0,
+      "answer": "The main purpose of the collected dataset is to enable interactive learning using the steps proposed above and potentially to evaluate how different systems perform on this task."
+    },
+    {
+      "title": "Improving Correlation with Human Judgments by Integrating Semantic Similarity with Second--Order Vectors",
+      "evidence_score": 0.08,
+      "correctness": 0.0,
+      "answer": "approaches that learn word, phrase, and sentence embeddings from structured corpora such as literature and dictionary entries"
+    },
+    {
+      "title": "An Iterative Approach for Identifying Complaint Based Tweets in Social Media Platforms",
+      "evidence_score": 0.4580152671755725,
+      "correctness": 1.0,
+      "answer": "19,300"
+    },
+    {
+      "title": "Feature Studies to Inform the Classification of Depressive Symptoms from Twitter Data for Population Health",
+      "evidence_score": 0.13333333333333333,
+      "correctness": 0.0,
+      "answer": "Our dataset."
+    },
+    {
+      "title": "Embedding Geographic Locations for Modelling the Natural Environment using Flickr Tags and Structured Data",
+      "evidence_score": 0.27586206896551724,
+      "correctness": 0.0,
+      "answer": "In this paper."
+    },
+    {
+      "title": "How big is big enough? Unsupervised word sense disambiguation using a very large corpus",
+      "evidence_score": 0.5434782608695653,
+      "correctness": 1.0,
+      "answer": "To deal with the problem of unknown sense distribution, the Bayesian classifier has been modified, removing the bias towards frequent labels in the training data."
+    },
+    {
+      "title": "Extreme Language Model Compression with Optimal Subwords and Shared Projections",
+      "evidence_score": 0.1891891891891892,
+      "correctness": 0.0,
+      "answer": "Experimental results also demonstrate higher compression efficiency and accuracy when compared with other state-of-the-art compression techniques."
+    },
+    {
+      "title": "Sentiment Analysis of Twitter Data for Predicting Stock Market Movements",
+      "evidence_score": 0.10526315789473684,
+      "correctness": 0.0,
+      "answer": "increasing size of training datasets"
+    },
+    {
+      "title": "Combating Adversarial Misspellings with Robust Word Recognition",
+      "evidence_score": 0.1379310344827586,
+      "correctness": 0.0,
+      "answer": "We consider three input formats for this architecture:"
+    },
+    {
+      "title": "Towards Understanding Neural Machine Translation with Word Importance",
+      "evidence_score": 0.1388888888888889,
+      "correctness": 0.0,
+      "answer": "Chinese$\\Rightarrow $English, English$\\Rightarrow $French, English$\\Rightarrow $Japanese."
+    },
+    {
+      "title": "Predicting Annotation Difficulty to Improve Task Routing and Model Performance for Biomedical Information Extraction",
+      "evidence_score": 0.13533834586466165,
+      "correctness": 0.0,
+      "answer": "An instance is an IE tuple."
+    },
+    {
+      "title": "How Document Pre-processing affects Keyphrase Extraction Performance",
+      "evidence_score": 0.9361702127659575,
+      "correctness": 1.0,
+      "answer": "244"
+    },
+    {
+      "title": "Paraphrase-Supervised Models of Compositionality",
+      "evidence_score": 0.1111111111111111,
+      "correctness": 1.0,
+      "answer": "English–Spanish translation system."
+    },
+    {
+      "title": "Toward Multilingual Neural Machine Translation with Universal Encoder and Decoder",
+      "evidence_score": 1.0,
+      "correctness": 1.0,
+      "answer": "English-German."
+    },
+    {
+      "title": "Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model",
+      "evidence_score": 0.16666666666666666,
+      "correctness": 0.0,
+      "answer": "what the model learns in zero-shot setting."
+    },
+    {
+      "title": "Quasi-Recurrent Neural Networks",
+      "evidence_score": 0.8920863309352518,
+      "correctness": 0.0,
+      "answer": "dynamic average pooling"
+    },
+    {
+      "title": "Multimodal Named Entity Recognition for Short Social Media Posts",
+      "evidence_score": 1.0,
+      "correctness": 1.0,
+      "answer": "10K"
+    },
+    {
+      "title": "Emotion Detection in Text: Focusing on Latent Representation",
+      "evidence_score": 0.2987732847153938,
+      "correctness": 1.0,
+      "answer": "Understanding the sequential nature of the text and the context; capturing more meaningful information from text; capturing better information about the context and sequential nature of the text; capturing more information about the context and sequential nature of the text can outperform lexicon-based methods commonly used in the literature."
+    },
+    {
+      "title": "Knowledge Graph Representation with Jointly Structural and Textual Encoding",
+      "evidence_score": 0.44223184223184225,
+      "correctness": 0.0,
+      "answer": "WN18; FB15K; Table 1"
+    },
+    {
+      "title": "UG18 at SemEval-2018 Task 1: Generating Additional Training Data for Predicting Emotion Intensity in Spanish",
+      "evidence_score": 1.0,
+      "correctness": 0.0,
+      "answer": "Our semi-supervised approach is quite straightforward:"
+    },
+    {
+      "title": "Crowdsourcing for Beyond Polarity Sentiment Analysis A Pure Emotion Lexicon",
+      "evidence_score": 0.11650485436893204,
+      "correctness": 0.0,
+      "answer": "We compare crowd and expert evaluations of the lexicon."
+    },
+    {
+      "title": "Arabic Diacritic Recovery Using a Feature-Rich biLSTM Model",
+      "evidence_score": 0.3601953601953602,
+      "correctness": 0.0,
+      "answer": "surface level features; POS tags; stem templates"
+    },
+    {
+      "title": "DOLORES: Deep Contextualized Knowledge Graph Embeddings",
+      "evidence_score": 0.18867924528301885,
+      "correctness": 0.0,
+      "answer": "The shortest answer phrase that fully answers the question is: Return the shortest answer phrase that fully answers the question."
+    },
+    {
+      "title": "Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification",
+      "evidence_score": 0.14962856141162315,
+      "correctness": 0.0,
+      "answer": "We may have sufficient labeled data in an existing domain (called the source domain), but very few or no labeled data in a new domain (called the target domain); Set 2 from both the source and target domains are used as unlabeled sets; This issue has motivated research on cross-domain sentiment classification, where knowledge in the source domain is transferred to the target domain in order to alleviate the required labeling effort; In practice, it is often difficult and costly to annotate"
+    },
+    {
+      "title": "Structured Embedding Models for Grouped Data",
+      "evidence_score": 0.18918918918918923,
+      "correctness": 0.0,
+      "answer": "words are used differently across sections of the ArXiv"
+    },
+    {
+      "title": "Using Monolingual Data in Neural Machine Translation: a Systematic Study",
+      "evidence_score": 0.16216216216216214,
+      "correctness": 0.0,
+      "answer": "English"
+    },
+    {
+      "title": "Semi-Supervised Methods for Out-of-Domain Dependency Parsing",
+      "evidence_score": 0.28571428571428575,
+      "correctness": 0.0,
+      "answer": "English in-domain and out-of-domain datasets."
+    },
+    {
+      "title": "Mixed Membership Word Embeddings for Computational Social Science",
+      "evidence_score": 0.18504492309134316,
+      "correctness": 0.0,
+      "answer": "Topic Modeling and Word Embeddings; I show how to train the model using a combination of state-of-the-art training techniques for word embeddings and topic models; I propose a probabilistic model-based word embedding method which can recover interpretable embeddings, without big data; Topic Modeling and Word Embeddings; In particular, topic models have found broad applications in computational social science, and the digital humanities, where interpretable representations reveal meaningful insights."
+    },
+    {
+      "title": "Luminoso at SemEval-2018 Task 10: Distinguishing Attributes Using Text Corpora and Relational Knowledge",
+      "evidence_score": 0.14294020586155418,
+      "correctness": 0.0,
+      "answer": "By neutralizing the features after training, we keep the features that are working well as they are, and remove a part of the model that appears to purely represent overfitting; If we were to remove these features and re-train, or require non-negative coefficients as a constraint on the classifier, then other features would inherently become responsible for overfitting; In detail, these are the five sources of features we used:"
+    },
+    {
+      "title": "Question Answering from Unstructured Text by Retrieval and Comprehension",
+      "evidence_score": 0.1842105263157895,
+      "correctness": 0.0,
+      "answer": "This motivates us to introduce a neural network based approach for both retrieval and comprehension, since in this case the retrieval step can be directly trained to maximize the downstream performance."
+    },
+    {
+      "title": "CM-Net: A Novel Collaborative Memory Network for Spoken Language Understanding",
+      "evidence_score": 0.34077303487766786,
+      "correctness": 0.0,
+      "answer": "BiLSTMs + CRF architecture; sentence-state LSTM; CM-block"
+    },
+    {
+      "title": "Katecheo: A Portable and Modular System for Multi-Topic Question Answering",
+      "evidence_score": 0.14591011466011464,
+      "correctness": 0.0,
+      "answer": "pre-trained models; BiDAF; publicly available, pre-trained models and knowledge base articles extracted from Stack Exchange sites"
+    },
+    {
+      "title": "Mind Your Language: Abuse and Offense Detection for Code-Switched Languages",
+      "evidence_score": 0.15789473684210525,
+      "correctness": 0.0,
+      "answer": "The embeddings were trained on both the datasets provided by and HEOT."
+    },
+    {
+      "title": "ThisIsCompetition at SemEval-2019 Task 9: BERT is unstable for out-of-domain samples",
+      "evidence_score": 0.7906976744186047,
+      "correctness": 1.0,
+      "answer": "Despite this, JESSI performs second on Subtask A with an F1 score of 77.78% among 33 other team submissions."
+    },
+    {
+      "title": "STransE: a novel embedding model of entities and relationships in knowledge bases",
+      "evidence_score": 0.18181818181818182,
+      "correctness": 0.0,
+      "answer": "The STransE model defines a score function $f_r(h, t)$ of its implausibility."
+    },
+    {
+      "title": "Question Answering by Reasoning Across Documents with Graph Convolutional Networks",
+      "evidence_score": 1.0,
+      "correctness": 0.0,
+      "answer": "Wikipedia."
+    },
+    {
+      "title": "Good-Enough Compositional Data Augmentation",
+      "evidence_score": 0.18978102189781024,
+      "correctness": 1.0,
+      "answer": "They determine similar environments by identifying a pair of fragments that appear in some common sub-sentential environment."
+    },
+    {
+      "title": "Lattice CNNs for Matching Based Chinese Question Answering",
+      "evidence_score": 0.2162162162162162,
+      "correctness": 1.0,
+      "answer": "DBQA and KBRE datasets."
+    },
+    {
+      "title": "Self-Taught Convolutional Neural Networks for Short Text Clustering",
+      "evidence_score": 0.3997929387901709,
+      "correctness": 0.0,
+      "answer": "SearchSnippets; Biomedical"
+    },
+    {
+      "title": "Self-Attentional Models Application in Task-Oriented Dialogue Generation Systems",
+      "evidence_score": 0.4624561403508771,
+      "correctness": 1.0,
+      "answer": "Dialogue State Tracking Competition 2 (DSTC2) dataset; M2M-sim-M (dataset in movie domain); M2M-sim-R (dataset in restaurant domain)"
+    },
+    {
+      "title": "Using Gaussian Processes for Rumour Stance Classification in Social Media",
+      "evidence_score": 0.33333333333333337,
+      "correctness": 0.0,
+      "answer": "The central concept of Gaussian Process Classification (GPC; ) is a latent function $f$ over inputs $\\mathbf {x}$ : $f(\\mathbf {x}) \\sim \\ \\mathcal {GP}(m(\\mathbf {x}), k(\\mathbf {x}, \\mathbf {x}^{\\prime }))$, where $m$ is the mean function, assumed to be 0 and $k$ is the kernel function, specifying the degree"
+    },
+    {
+      "title": "Open Named Entity Modeling from Embedding Distribution",
+      "evidence_score": 0.026315789473684213,
+      "correctness": 0.0,
+      "answer": "This is the reported state-of-the-art result in their github."
+    },
+    {
+      "title": "Learning Relational Dependency Networks for Relation Extraction",
+      "evidence_score": 0.6428571428571429,
+      "correctness": 0.0,
+      "answer": "They learn jointly."
+    },
+    {
+      "title": "Smarnet: Teaching Machines to Read and Comprehend Like Human",
+      "evidence_score": 0.1388888888888889,
+      "correctness": 0.0,
+      "answer": "Specifically, we first propose a novel lexical gating mechanism to dynamically combine the words and characters representations."
+    },
+    {
+      "title": "Assessing the Applicability of Authorship Verification Methods",
+      "evidence_score": 0.05555555555555555,
+      "correctness": 0.0,
+      "answer": "A self-compiled corpus."
+    },
+    {
+      "title": "A Multi-cascaded Deep Model for Bilingual SMS Classification",
+      "evidence_score": 0.15384615384615385,
+      "correctness": 0.0,
+      "answer": "The dataset consists of SMS feedbacks of the citizens of Pakistan on different public services availed by them."
+    },
+    {
+      "title": "Putting Self-Supervised Token Embedding on the Tables",
+      "evidence_score": 0.1038961038961039,
+      "correctness": 0.0,
+      "answer": "They can be under the form of tables containing diverse elements, words and numbers, afterwards referred to as tokens."
+    },
+    {
+      "title": "Select and Attend: Towards Controllable Content Selection in Text Generation",
+      "evidence_score": 0.2028985507246377,
+      "correctness": 0.0,
+      "answer": "The model is trained end-to-end without human annotations by maximizing a lower bound of the marginal likelihood."
+    },
+    {
+      "title": "Question Answering based Clinical Text Structuring Using Pre-trained Language Model",
+      "evidence_score": 0.14922885414688694,
+      "correctness": 0.0,
+      "answer": "This kind of method focus on language itself, so it can handle tasks more general; While final answer varies from task to task, which truly causes non-uniform output formats, finding the answer-related text is a common action among all tasks; Clinical text structuring (CTS) is a critical task for fetching medical research data from electronic health records (EHRs), where structural patient medical data, such as whether the patient has specific symptoms, diseases, or what the tumor"
+    },
+    {
+      "title": "MedDialog: A Large-scale Medical Dialogue Dataset",
+      "evidence_score": 0.761904761904762,
+      "correctness": 1.0,
+      "answer": "Chinese."
+    },
+    {
+      "title": "Image Captioning: Transforming Objects into Words",
+      "evidence_score": 0.35640852403858186,
+      "correctness": 0.0,
+      "answer": "BLEU; ROUGE; Karpathy validation and test splits"
+    },
+    {
+      "title": "Binary and Multitask Classification Model for Dutch Anaphora Resolution: Die/Dat Prediction",
+      "evidence_score": 0.1378312244438005,
+      "correctness": 0.0,
+      "answer": "103,871; 1,269,091; 736,987; 532,104"
+    },
+    {
+      "title": "Question Generation by Transformers",
+      "evidence_score": 0.0923076923076923,
+      "correctness": 0.0,
+      "answer": "WER analyses was applied to diagnose shortcomings and guide future improvements."
+    },
+    {
+      "title": "Garbage In, Garbage Out? Do Machine Learning Application Papers in Social Computing Report Where Human-Labeled Training Data Comes From?",
+      "evidence_score": 1.0,
+      "correctness": 0.0,
+      "answer": "It is used to turn qualitative or unstructured data into structured and/or quantitative data."
+    },
+    {
+      "title": "BERT-Based Arabic Social Media Author Profiling",
+      "evidence_score": 0.2769729317575295,
+      "correctness": 0.0,
+      "answer": "To further improve the performance of our models, we introduce in-house labeled data that we use to fine-tune BERT; Data Augmentation; These data can come in the form of usage and behavior (e.g., who likes what on Facebook), network (e.g., who follows a given user on Instagram), and content (e.g., what people post to Twitter)."
+    },
+    {
+      "title": "A General-Purpose Tagger with Convolutional Neural Networks",
+      "evidence_score": 0.14084507042253522,
+      "correctness": 0.0,
+      "answer": "capturing sub-word informations."
+    },
+    {
+      "title": "Semi-Supervised Neural Text Generation by Joint Learning of Natural Language Generation and Natural Language Understanding Models",
+      "evidence_score": 0.12198879551820728,
+      "correctness": 0.0,
+      "answer": "non-annotated datasets; semi-supervised learning approach; unpaired datasets; semi-supervised deep learning scheme; non-annotated data; unpaired data; limited amount of annotated data"
+    },
+    {
+      "title": "Brazilian Lyrics-Based Music Genre Classification Using a BLSTM Network",
+      "evidence_score": 0.04651162790697675,
+      "correctness": 0.0,
+      "answer": "Word embeddings is a technique to represent words as real vectors, so that these vectors maintain some semantic aspects of the real words."
+    },
+    {
+      "title": "Is preprocessing of text really worth your time for online comment classification?",
+      "evidence_score": 0.12571518422334038,
+      "correctness": 0.0,
+      "answer": "LR, NBSVM, XGBoost, Bidirectional LSTM model using fastText’s skipgram word vector;"
+    },
+    {
+      "title": "Empirical Study on Detecting Controversy in Social Media",
+      "evidence_score": 0.16216216216216217,
+      "correctness": 0.0,
+      "answer": "The quick turn of sentiment polarity serves as a measurement of the event being controversy."
+    },
+    {
+      "title": "Modeling Event Background for If-Then Commonsense Reasoning Using Context-aware Variational Autoencoder",
+      "evidence_score": 0.267825311942959,
+      "correctness": 0.0,
+      "answer": "RNN-based Seq2Seq proposed by (no author mentioned); Atomic Dataset Inspired by Event2Mind"
+    },
+    {
+      "title": "Structural Scaffolds for Citation Intent Classification in Scientific Publications",
+      "evidence_score": 0.42466982486362337,
+      "correctness": 0.0,
+      "answer": "47K; 50K; 91K; 73K; 8; 32"
+    },
+    {
+      "title": "Learn to Code-Switch: Data Augmentation using Copy Mechanism on Language Modeling",
+      "evidence_score": 0.06422013666681976,
+      "correctness": 0.0,
+      "answer": "Table; multilingual communities"
+    },
+    {
+      "title": "QuaRel: A Dataset and Models for Answering Questions about Qualitative Relationships",
+      "evidence_score": 0.05333333333333334,
+      "correctness": 0.0,
+      "answer": "They are expressed in the dataset."
+    },
+    {
+      "title": "The Wiki Music dataset: A tool for computational analysis of popular music",
+      "evidence_score": 0.15625,
+      "correctness": 0.0,
+      "answer": "a list of popular music genres by decade"
+    },
+    {
+      "title": "Learning Twitter User Sentiments on Climate Change with Limited Labeled Data",
+      "evidence_score": 0.7608695652173912,
+      "correctness": 0.0,
+      "answer": "The East Coast Bomb Cyclone, the Mendocino, California wildfires, the Camp Fire, the Woolsey Fire."
+    },
+    {
+      "title": "QnAMaker: Data to Bot in 2 Minutes",
+      "evidence_score": 0.24583504730563555,
+      "correctness": 0.0,
+      "answer": "QnAMaker Portal; Extraction; QnAMaker WebApp"
+    },
+    {
+      "title": "A Sketch-Based System for Semantic Parsing",
+      "evidence_score": 0.1212121212121212,
+      "correctness": 0.0,
+      "answer": "The full test set has a higher accuracy than the hard test subset."
+    },
+    {
+      "title": "Inducing Interpretability in Knowledge Graph Embeddings",
+      "evidence_score": 1.0,
+      "correctness": 1.0,
+      "answer": "$Coherence@k$ (Equation 6 ), automated and manual word intrusion tests."
+    },
+    {
+      "title": "Community Identity and User Engagement in a Multi-Community Landscape",
+      "evidence_score": 0.7692307692307693,
+      "correctness": 1.0,
+      "answer": "The average specificity of all utterances in."
+    },
+    {
+      "title": "Event Outcome Prediction using Sentiment Analysis and Crowd Wisdom in Microblog Feeds",
+      "evidence_score": 0.3823529411764706,
+      "correctness": 0.0,
+      "answer": "One can see the winners suggested by the Washington Post."
+    },
+    {
+      "title": "Probabilistic Bias Mitigation in Word Embeddings",
+      "evidence_score": 0.5983606557377049,
+      "correctness": 0.0,
+      "answer": "We evaluated the embedding after 1000 iterations, and stopped training if performance on a benchmark decreased significantly."
+    },
+    {
+      "title": "Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction",
+      "evidence_score": 0.7286821705426356,
+      "correctness": 1.0,
+      "answer": "3,200 sentences in 2 domains."
+    },
+    {
+      "title": "Classifying movie genres by analyzing text reviews",
+      "evidence_score": 0.16008517228029426,
+      "correctness": 0.0,
+      "answer": "KNN model accuracy; Hamming loss; tf-idf; multi-label classification; accuracy; Hamming loss; Regular metrics; Implementation complexity; Data processing complexity; Evaluation complexity"
+    },
+    {
+      "title": "BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs",
+      "evidence_score": 1.0,
+      "correctness": 1.0,
+      "answer": "10 CNNs, 10 LSTMs"
+    },
+    {
+      "title": "BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions",
+      "evidence_score": 0.15533980582524273,
+      "correctness": 1.0,
+      "answer": "16,000"
+    }
+  ]
+}

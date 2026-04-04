@@ -1,0 +1,748 @@
+[
+  {
+    "title": "Revisiting Summarization Evaluation for Scientific Articles",
+    "answer": "Contrary to the common belief, ROUGE is not much reliable.",
+    "evidence": [
+      "We provide an extensive analysis of ROUGE's effectiveness as an evaluation metric for scientific summarization; we show that, contrary to the common belief, ROUGE is not much reliable in evaluating scientific summaries. We furthermore show how different variants of ROUGE result in very different correlations with the manual Pyramid scores."
+    ]
+  },
+  {
+    "title": "Ancient-Modern Chinese Translation with a Large Training Dataset",
+    "answer": "To build the large ancient-modern Chinese dataset, we collected 1.7K bilingual ancient-modern Chinese articles from the internet.",
+    "evidence": [
+      "Data Collection. To build the large ancient-modern Chinese dataset, we collected 1.7K bilingual ancient-modern Chinese articles from the internet. More specifically, a large part of the ancient Chinese data we used come from ancient Chinese history records in several dynasties (about 1000BC-200BC) and articles written by celebrities of that era."
+    ]
+  },
+  {
+    "title": "RUN through the Streets: A New Dataset and Baseline Models for Realistic Urban Navigation",
+    "answer": "Table shows the results for the baseline models as well as the HUMAN measured performance on the task; The best baseline model is NO-MOVE, reaching an accuracy of 30.3% on single sentences and 0.3 on complete paragraphs; The human performance provides an upper bound for the RUN task performance, while the simple baselines provide lower bounds.",
+    "evidence": [
+      "The human performance provides an upper bound for the RUN task performance, while the simple baselines provide lower bounds. The best baseline model is NO-MOVE, reaching an accuracy of 30.3% on single sentences and 0.3 on complete paragraphs. For the HUMAN case, paragraph accuracy reaches above 80.",
+      "Table TABREF8 shows the results for the baseline models as well as the HUMAN measured performance on the task. The human performance provides an upper bound for the RUN task performance, while the simple baselines provide lower bounds."
+    ]
+  },
+  {
+    "title": "Why So Down? The Role of Negative (and Positive) Pointwise Mutual Information in Distributional Semantics",
+    "answer": "Due to unreliable statistics.",
+    "evidence": [
+      "Due to unreliable statistics, this happens very frequently in finite corpora. Many models work around this issue by clipping negative $\\mathit {PMI}$ values at 0, a measure known as Positive $\\mathit {PMI}$ ($\\mathit {PPMI}$), which works very well in practice."
+    ]
+  },
+  {
+    "title": "Generating Diverse Numbers of Diverse Keyphrases",
+    "answer": "F @; F @",
+    "evidence": [
+      "Conclusion and Future Work We propose a recurrent generative model that sequentially generates multiple keyphrases, with two extra modules that enhance generation diversity. We propose new metrics to evaluate keyphrase generation.",
+      "Here we define two new metrics: By simply extending the constant number INLINEFORM0 to different variables accordingly, both F INLINEFORM1 @ INLINEFORM2 and F INLINEFORM3 @ INLINEFORM4 are capable of reflecting the nature of variable number of phrases for each document, and a model can achieve the maximum INLINEFORM5 score of INLINEFORM6 if and only if it predicts the exact same phrases as the ground truth. Another merit of F INLINEFORM7 @ INLINEFORM8 is that it is independent from model outputs, therefore we can use it to compare existing models.",
+      "To verify our assumption that target encoding and orthogonal regularization help to boost the diversity of generated sequences, we use two metrics, one quantitative and one qualitative, to measure diversity of generation."
+    ]
+  },
+  {
+    "title": "When to reply? Context Sensitive Models to Predict Instructor Interventions in MOOC Forums",
+    "answer": "We propose novel attention based models to infer the amount of latent context necessary to predict instructor intervention.",
+    "evidence": [
+      "Due to time constraints, course instructors often need to selectively participate in student discussion threads, due to their limited bandwidth and lopsided student--instructor ratio on online forums. We propose the first deep learning models for this binary prediction problem. We propose novel attention based models to infer the amount of latent context necessary to predict instructor intervention."
+    ]
+  },
+  {
+    "title": "Automated News Suggestions for Populating Wikipedia Entity Pages",
+    "answer": "salience; relative authority; novelty",
+    "evidence": [
+      "Salience: entity INLINEFORM0 should be a salient entity in news article INLINEFORM1 Relative Authority: the set of entities INLINEFORM0 with which INLINEFORM1 co-occurs should have higher authority than INLINEFORM2 , making INLINEFORM3 important for INLINEFORM4 Novelty: news article INLINEFORM0 should provide novel information for entity INLINEFORM1 taking into account its profile INLINEFORM2 Baseline Features. As discussed in Section SECREF2 , a variety of features that measure salience of an entity in text are available from the NLP community. We reimplemented the ones in Dunietz and Gillick BIBREF11 .",
+      "First, we suggest news articles to Wikipedia entities (article-entity placement) relying on a rich set of features which take into account the \\emph{salience} and \\emph{relative authority} of entities, and the \\emph{novelty} of news articles to entity pages."
+    ]
+  },
+  {
+    "title": "State-of-the-Art Vietnamese Word Segmentation",
+    "answer": "This paper reviews state-of-the-art approaches and systems for word segmentation in Vietnamese.",
+    "evidence": [
+      "This paper reviews stateof-the-art approaches and systems for word segmentation in Vietnamese. To have an overview of all stages from building corpora to developing toolkits, we discuss building the corpus stage, approaches applied to solve the word segmentation and existing toolkits to segment words in Vietnamese sentences. In addition, this study shows clearly the motivations on building corpus and implementing machine learning techniques to improve the accuracy for Vietnamese word segmentation."
+    ]
+  },
+  {
+    "title": "A Portuguese Native Language Identification Dataset",
+    "answer": "16 tokens.",
+    "evidence": [
+      "This variability affects also text length. The longest text has 787 tokens and the shortest has only 16 tokens. Most texts, however, range roughly from 150 to 250 tokens."
+    ]
+  },
+  {
+    "title": "Attention-based method for categorizing different types of online harassment language",
+    "answer": "baseline methods; multi-attention method having a projected layer",
+    "evidence": [
+      "In this section, we describe the basic approach of our work.",
+      "Our approach is based on the Recurrent Neural Networks and particularly we are using a deep, classiﬁcation specific attention mechanism. Moreover, we present a comparison between different variations of this attention-based approach and a few baseline methods. According to the results of our experiments and considering the F1 Score, the multi-attention method having a projected layer, achieved the highest performance.",
+      "Moreover, we present a comparison between different variations of this attention-based approach and a few baseline methods. According to the results of our experiments and considering the F1 Score, the multi-attention method having a projected layer, achieved the highest performance. Also, we tackled the problem of the imbalance between the training, validation and test sets performing the technique of back-translation."
+    ]
+  },
+  {
+    "title": "Text Summarization using Abstract Meaning Representation",
+    "answer": "We select few sentences from the story.",
+    "evidence": [
+      "We propose a two step process for extracting multiple summary graphs. First step is to select few sentences from the story. We use the idea that there are only few sentences that are important from the point of view of summary, i.e. most of the information contained in the summary is present in very few sentences and they can be used to generate the summary."
+    ]
+  },
+  {
+    "title": "Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning",
+    "answer": "Collect a sensationalism dataset and train a sensationalism scorer.",
+    "evidence": [
+      "To evaluate the sensationalism intensity score $\\alpha _{\\text{sen}}$ of a headline, we collect a sensationalism dataset and then train a sensationalism scorer."
+    ]
+  },
+  {
+    "title": "Shallow Syntax in Deep Water",
+    "answer": "shallow syntactic features",
+    "evidence": [
+      "First, we enhance the ELMo architecture to allow pretraining on predicted shallow syntactic parses, instead of just raw text, so that contextual embeddings make use of shallow syntactic context. Our second method involves shallow syntactic features obtained automatically on downstream task data."
+    ]
+  },
+  {
+    "title": "Improved Neural Relation Detection for Knowledge Base Question Answering",
+    "answer": "Relation detection",
+    "evidence": [
+      "Relation detection is a core component for many NLP applications including Knowledge Base Question Answering (KBQA)."
+    ]
+  },
+  {
+    "title": "A BERT-Based Transfer Learning Approach for Hate Speech Detection in Online Social Media",
+    "answer": "surface-level features such as bag of words, word-level and character-level $n$-grams, etc.",
+    "evidence": [
+      "The features used in traditional machine learning approaches are the main aspects distinguishing different methods, and surface-level features such as bag of words, word-level and character-level $n$-grams, etc. have proven to be the most predictive features BIBREF3, BIBREF4, BIBREF5. Apart from features, different algorithms such as Support Vector Machines BIBREF15, Naive Baye BIBREF1, and Logistic Regression BIBREF5, BIBREF9, etc. have been applied for classification purposes. Waseem et al."
+    ]
+  },
+  {
+    "title": "A Hybrid Architecture for Multi-Party Conversational Systems",
+    "answer": "To the best of our knowledge, the architecture proposed in this paper is the first one in the state of the art designed to support the design and development of coordinated aware chatbots in a multiparty conversation.",
+    "evidence": [
+      "Coordinated Aware Chatbots in a Multiparty Conversation With regard to chatbot engines, there is a lack of research directed to building coordination laws integrated with natural language. To the best of our knowledge, the architecture proposed in this paper is the first one in the state of the art designed to support the design and development of coordinated aware chatbots in a multiparty conversation."
+    ]
+  },
+  {
+    "title": "How we do things with words: Analyzing text as social and cultural data",
+    "answer": "thorny issues",
+    "evidence": [
+      "First, we aim to shed light on thorny issues not always at the forefront of discussions about computational text analysis methods."
+    ]
+  },
+  {
+    "title": "Predicting the Type and Target of Offensive Posts in Social Media",
+    "answer": "A; type (B); target (C)",
+    "evidence": [
+      "Therefore, we expand on these ideas by proposing a a hierarchical three-level annotation model that encompasses: Using this annotation model, we create a new large publicly available dataset of English tweets.",
+      "While each of these sub-tasks tackle a particular type of abuse or offense, they share similar properties and the hierarchical annotation model proposed in this paper aims to capture this.",
+      "In the OLID dataset, we use a hierarchical annotation model split into three levels to distinguish between whether language is offensive or not (A), and type (B) and target (C) of the offensive language."
+    ]
+  },
+  {
+    "title": "Named Entity Recognition for Nepali Language",
+    "answer": "grapheme-level representations.",
+    "evidence": [
+      "In this paper, we describe a Nepali NER dataset that we created. We discuss and compare the performance of various machine learning models on this dataset. We also propose a novel NER scheme for Nepali and show that this scheme, based on grapheme-level representations, outperforms character-level representations when combined with BiLSTM models."
+    ]
+  },
+  {
+    "title": "Deep LSTM for Large Vocabulary Continuous Speech Recognition",
+    "answer": "only a small part of the dataset",
+    "evidence": [
+      "The strategy makes it possible that training with only a small part of dataset could outperform full dataset training from the beginning."
+    ]
+  },
+  {
+    "title": "TWEETQA: A Social Media Focused Question Answering Dataset",
+    "answer": "we restrict ourselves only to tweets which have been used by journalists in news articles",
+    "evidence": [
+      "In this paper, we propose the first large-scale dataset for QA over social media data. Rather than naively obtaining tweets from Twitter using the Twitter API which can yield irrelevant tweets with no valuable information, we restrict ourselves only to tweets which have been used by journalists in news articles thus implicitly implying that such tweets contain useful and relevant information."
+    ]
+  },
+  {
+    "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+    "answer": "The siamese network architecture enables that fixed-sized vectors for input sentences can be derived.",
+    "evidence": [
+      "The siamese network architecture enables that fixed-sized vectors for input sentences can be derived. Using a similarity measure like cosine-similarity or Manhatten / Euclidean distance, semantically similar sentences can be found."
+    ]
+  },
+  {
+    "title": "Symmetric Regularization based BERT for Pair-wise Semantic Reasoning",
+    "answer": "The BERT model.",
+    "evidence": [
+      "The models derived from BERT, e.g., StructBERT and ERNIE 1.0/2.0, aim to incorporating more knowledge by elaborating pre-training objectives. This work aims to enhance the NSP task and verifies whether document-level information is helpful for the pre-training."
+    ]
+  },
+  {
+    "title": "Using General Adversarial Networks for Marketing: A Case Study of Airbnb",
+    "answer": "The size of the Airbnb is not specified in the provided evidence.",
+    "evidence": [
+      "The data for the project was acquired from Airdna, a data processing service that collaborates with Airbnb to produce high-accuracy data summaries for listings in geographic regions of the United States. For the sake of simplicity, we focus our analysis on Airbnb listings from Manhattan, NY, during the time period of January 1, 2016, to January 1, 2017."
+    ]
+  },
+  {
+    "title": "Data Collection for Interactive Learning through the Dialog",
+    "answer": "The main purpose of the collected dataset is to enable interactive learning using the steps proposed above and potentially to evaluate how different systems perform on this task.",
+    "evidence": [
+      "The main purpose of the collected dataset is to enable interactive learning using the steps proposed above and potentially to evaluate how different systems perform on this task."
+    ]
+  },
+  {
+    "title": "Improving Correlation with Human Judgments by Integrating Semantic Similarity with Second--Order Vectors",
+    "answer": "approaches that learn word, phrase, and sentence embeddings from structured corpora such as literature and dictionary entries",
+    "evidence": [
+      "We are particularly interested in approaches that learn word, phrase, and sentence embeddings from structured corpora such as literature BIBREF23 and dictionary entries BIBREF24 . Such embeddings could be integrated into a second–order vector or be used on their own."
+    ]
+  },
+  {
+    "title": "An Iterative Approach for Identifying Complaint Based Tweets in Social Media Platforms",
+    "answer": "19,300",
+    "evidence": [
+      "Querying posts on Twitter with extracted lexicons led to a collection of $19,300$ tweets. In order to have lexical diversity, we added 2500 randomly sampled tweets to our dataset."
+    ]
+  },
+  {
+    "title": "Feature Studies to Inform the Classification of Depressive Symptoms from Twitter Data for Population Health",
+    "answer": "Our dataset.",
+    "evidence": [
+      "Our next step is to address the classification of rarer depressive symptoms suggestive of major depressive disorder from our dataset and hierarchy including inappropriate guilt, difficulty concentrating, psychomotor agitation or retardation, weight loss or gain, and anhedonia BIBREF15 , BIBREF16 . We are developing a population-level monitoring framework designed to estimate the prevalence of depression (and depression-related symptoms and psycho-social stressors) over millions of United States-geocoded tweets. Identifying the most discriminating feature sets and natural language processing classifiers for each depression symptom is vital for this goal."
+    ]
+  },
+  {
+    "title": "Embedding Geographic Locations for Modelling the Natural Environment using Flickr Tags and Structured Data",
+    "answer": "In this paper.",
+    "evidence": [
+      "In this paper, we are interested in the use of such representations for modelling geographic locations."
+    ]
+  },
+  {
+    "title": "How big is big enough? Unsupervised word sense disambiguation using a very large corpus",
+    "answer": "To deal with the problem of unknown sense distribution, the Bayesian classifier has been modified, removing the bias towards frequent labels in the training data.",
+    "evidence": [
+      "The quality of the models has indeed improved, especially thanks to replacements based on sense ordering in plWordNet. To deal with the problem of unknown sense distribution, the Bayesian classifier has been modified, removing the bias towards frequent labels in the training data. Finally, the experiments with very large corpus have shown the sufficient amount of training data for this task, which is only 6 million documents."
+    ]
+  },
+  {
+    "title": "Extreme Language Model Compression with Optimal Subwords and Shared Projections",
+    "answer": "Experimental results also demonstrate higher compression efficiency and accuracy when compared with other state-of-the-art compression techniques.",
+    "evidence": [
+      "We combine this approach with learning shared projection matrices that transfer layer-wise knowledge from the teacher model to the student model. Our method is able to compress the BERT_BASE model by more than 60x, with only a minor drop in downstream task metrics, resulting in a language model with a footprint of under 7MB. Experimental results also demonstrate higher compression efficiency and accuracy when compared with other state-of-the-art compression techniques."
+    ]
+  },
+  {
+    "title": "Sentiment Analysis of Twitter Data for Predicting Stock Market Movements",
+    "answer": "increasing size of training datasets",
+    "evidence": [
+      "With increasing size of training datasets, the models tend to perform better."
+    ]
+  },
+  {
+    "title": "Combating Adversarial Misspellings with Robust Word Recognition",
+    "answer": "We consider three input formats for this architecture:",
+    "evidence": [
+      "We consider three input formats for this architecture: (1) Word-only: where the input words are encoded using a lookup table; (2) Char-only: where the input words are encoded using a separate single-layered BiLSTM over their characters; and (3) Word $+$ Char: where the input words are encoded using a concatenation of (1) and (2) ."
+    ]
+  },
+  {
+    "title": "Towards Understanding Neural Machine Translation with Word Importance",
+    "answer": "Chinese$\\Rightarrow $English, English$\\Rightarrow $French, English$\\Rightarrow $Japanese.",
+    "evidence": [
+      "In this section, we conduct analyses on two potential usages of word importance, which can help debug NMT models (Section SECREF33) and design better architectures for specific languages (Section SECREF37). Due to the space limitation, we only analyze the results of Chinese$\\Rightarrow $English, English$\\Rightarrow $French, and English$\\Rightarrow $Japanese."
+    ]
+  },
+  {
+    "title": "Predicting Annotation Difficulty to Improve Task Routing and Model Performance for Biomedical Information Extraction",
+    "answer": "An instance is an IE tuple.",
+    "evidence": [
+      "Formally, for annotation task $t$ and instance $i$ : $$\\text{Difficulty}_{ti} = \\frac{\\sum _{j=1}^n{f(\\text{label}_{ij}, y_i})}{n}$$ (Eq. 3) where $f$ is a scoring function that measures the quality of the label from worker $j$ for sentence $i$ , as compared to a ground truth annotation, $y_i$ . The difficulty score of sentence $i$ is taken as an average over the scores for all $n$ layworkers."
+    ]
+  },
+  {
+    "title": "How Document Pre-processing affects Keyphrase Extraction Performance",
+    "answer": "244",
+    "evidence": [
+      "Dataset and Preprocessing The SemEval-2010 benchmark dataset BIBREF0 is composed of 244 scientific articles collected from the ACM Digital Library (conference and workshop papers)."
+    ]
+  },
+  {
+    "title": "Paraphrase-Supervised Models of Compositionality",
+    "answer": "English–Spanish translation system.",
+    "evidence": [
+      "And third, an evaluation of the impact of compositionality knowledge in an end-to-end MT setup. Our experiments (§ SECREF5 ) reveal that using supervision from automatically extracted paraphrases produces compositional functions with equivalent performance to previous approaches that have relied on hand-annotated training data. Furthermore, compositionality features consistently improve the translations produced by a strong English–Spanish translation system."
+    ]
+  },
+  {
+    "title": "Toward Multilingual Neural Machine Translation with Universal Encoder and Decoder",
+    "answer": "English-German.",
+    "evidence": [
+      "First, we consider the translation for an under-resourced pair of languages. Here a small portion of the large parallel corpus for English-German is used as a simulation for the scenario where we do not have much parallel data: Translating texts in English to German."
+    ]
+  },
+  {
+    "title": "Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model",
+    "answer": "what the model learns in zero-shot setting.",
+    "evidence": [
+      "We further explore what does the model learn in zero-shot setting."
+    ]
+  },
+  {
+    "title": "Quasi-Recurrent Neural Networks",
+    "answer": "dynamic average pooling",
+    "evidence": [
+      "The simplest option, which BIBREF12 term “dynamic average pooling”, uses only a forget gate: DISPLAYFORM0 We term these three options f-pooling, fo-pooling, and ifo-pooling respectively; in each case we initialize INLINEFORM0 or INLINEFORM1 to zero. Although the recurrent parts of these functions must be calculated for each timestep in sequence, their simplicity and parallelism along feature dimensions means that, in practice, evaluating them over even long sequences requires a negligible amount of computation time."
+    ]
+  },
+  {
+    "title": "Multimodal Named Entity Recognition for Short Social Media Posts",
+    "answer": "10K",
+    "evidence": [
+      "The SnapCaptions dataset is composed of 10K user-generated image (snap) and textual caption pairs where named entities in captions are manually labeled by expert human annotators (entity types: PER, LOC, ORG, MISC)."
+    ]
+  },
+  {
+    "title": "Emotion Detection in Text: Focusing on Latent Representation",
+    "answer": "Understanding the sequential nature of the text and the context; capturing more meaningful information from text; capturing better information about the context and sequential nature of the text; capturing more information about the context and sequential nature of the text can outperform lexicon-based methods commonly used in the literature.",
+    "evidence": [
+      "In this work, we argue that current methods which are based on conventional machine learning models cannot grasp the intricacy of emotional language by ignoring the sequential nature of the text, and the context. These methods, therefore, are not sufficient to create an applicable and generalizable emotion detection methodology. Understanding these limitations, we present a new network based on a bidirectional GRU model to show that capturing more meaningful information from text can significantly improve the performance of these models.",
+      "These methods, therefore, are not sufficient to create an applicable and generalizable emotion detection methodology. Understanding these limitations, we present a new network based on a bidirectional GRU model to show that capturing more meaningful information from text can significantly improve the performance of these models. The results show significant improvement with an average of 26.8 point increase in F-measure on our test data and 38.6 increase on the totally new dataset.",
+      "Our architecture was designed to show that using a model that captures better information about the context and sequential nature of the text can outperform lexicon-based methods commonly used in the literature. As mentioned in the Introduction, Recurrent Neural Networks (RNNs) have been shown to perform well for the verity of tasks in NLP, especially classification tasks. And as our goal was to capture more information about the context and sequential nature of the text, we decided to use a model based on bidirectional RNN, specifically a bidirectional GRU network to analyze the tweets."
+    ]
+  },
+  {
+    "title": "Knowledge Graph Representation with Jointly Structural and Textual Encoding",
+    "answer": "WN18; FB15K; Table 1",
+    "evidence": [
+      "The evaluation results are reported under these two settings.",
+      "We use two popular knowledge bases: WordNet BIBREF0 and Freebase BIBREF1 in this paper. Specifically, we use WN18 (a subset of WordNet) BIBREF24 and FB15K (a subset of Freebase) BIBREF2 since their text descriptions are easily publicly available. Table 1 lists statistics of the two datasets.",
+      "In this paper, we use three encoders (NBOW, LSTM and attentive LSTM) to model the text descriptions."
+    ]
+  },
+  {
+    "title": "UG18 at SemEval-2018 Task 1: Generating Additional Training Data for Predicting Emotion Intensity in Spanish",
+    "answer": "Our semi-supervised approach is quite straightforward:",
+    "evidence": [
+      "Our semi-supervised approach is quite straightforward: first a model is trained on the training set and then this model is used to predict the labels of the silver data. This silver data is then simply added to our training set, after which the model is retrained. However, an extra step is applied to ensure that the silver data is of reasonable quality."
+    ]
+  },
+  {
+    "title": "Crowdsourcing for Beyond Polarity Sentiment Analysis A Pure Emotion Lexicon",
+    "answer": "We compare crowd and expert evaluations of the lexicon.",
+    "evidence": [
+      "Lexicon evaluation was also performed by experts or gold standards. In our paper, we propose a crowdsourcing method for lexicon acquisition, which is scalable, cost-effective, and doesn't require experts or gold standards. We also compare crowd and expert evaluations of the lexicon, to assess the overall lexicon quality, and the evaluation capabilities of the crowd."
+    ]
+  },
+  {
+    "title": "Arabic Diacritic Recovery Using a Feature-Rich biLSTM Model",
+    "answer": "surface level features; POS tags; stem templates",
+    "evidence": [
+      "Manual exploration of the feature space is undesirable, and ideally we would want our learning algorithm to do so automatically. The flexibility of the DNN model allowed us to include many more surface level features such as affixes, leading and trailing characters in words and stems, and the presence of words in large gazetteers of named entities.",
+      "Specifically, we used biLSTM-based model with a variety of surface, morphological, and syntactic features. Reliable NLP tools may be required to generate some of these features, and such tools may not be readily available for other language varieties, such as dialectal Arabic. However, we showed the efficacy of different varieties of features, such as surface level-features, and they can help improve diacritization individually.",
+      "Surface-level features resulted in the most gain, followed by POS tags, and lastly stem templates."
+    ]
+  },
+  {
+    "title": "DOLORES: Deep Contextualized Knowledge Graph Embeddings",
+    "answer": "The shortest answer phrase that fully answers the question is: Return the shortest answer phrase that fully answers the question.",
+    "evidence": [
+      "Let S denote the set of entity-relation chains obtained by doing random walks in the knowledge graph."
+    ]
+  },
+  {
+    "title": "Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification",
+    "answer": "We may have sufficient labeled data in an existing domain (called the source domain), but very few or no labeled data in a new domain (called the target domain); Set 2 from both the source and target domains are used as unlabeled sets; This issue has motivated research on cross-domain sentiment classification, where knowledge in the source domain is transferred to the target domain in order to alleviate the required labeling effort; In practice, it is often difficult and costly to annotate",
+    "evidence": [
+      "We may have sufficient labeled data in an existing domain (called the source domain), but very few or no labeled data in a new domain (called the target domain). This issue has motivated research on cross-domain sentiment classification, where knowledge in the source domain is transferred to the target domain in order to alleviate the required labeling effort.",
+      "In practice, it is often difficult and costly to annotate sufficient training data for diverse application domains on-the-fly. We may have sufficient labeled data in an existing domain (called the source domain), but very few or no labeled data in a new domain (called the target domain).",
+      "Setting (2): Set 2 from both the source and target domains are used as unlabeled sets."
+    ]
+  },
+  {
+    "title": "Structured Embedding Models for Grouped Data",
+    "answer": "words are used differently across sections of the ArXiv",
+    "evidence": [
+      "We study how the word usage of U.S. Congressional speeches varies across states and party affiliation, how words are used differently across sections of the ArXiv, and how the co-purchase patterns of groceries can vary across seasons."
+    ]
+  },
+  {
+    "title": "Using Monolingual Data in Neural Machine Translation: a Systematic Study",
+    "answer": "English",
+    "evidence": [
+      "The literature devoted to the use of monolingual data is large, and quickly expanding. We already alluded to several possible ways to use such data: using back- or forward-translation or using a target language model."
+    ]
+  },
+  {
+    "title": "Semi-Supervised Methods for Out-of-Domain Dependency Parsing",
+    "answer": "English in-domain and out-of-domain datasets.",
+    "evidence": [
+      "The evaluations on English include both in-domain and out-of-domain datasets, in addition to that, we also evaluated on the Chinese in-domain data. Chapter SECREF38 provides a summary of the thesis and gives conclusions."
+    ]
+  },
+  {
+    "title": "Mixed Membership Word Embeddings for Computational Social Science",
+    "answer": "Topic Modeling and Word Embeddings; I show how to train the model using a combination of state-of-the-art training techniques for word embeddings and topic models; I propose a probabilistic model-based word embedding method which can recover interpretable embeddings, without big data; Topic Modeling and Word Embeddings; In particular, topic models have found broad applications in computational social science, and the digital humanities, where interpretable representations reveal meaningful insights.",
+    "evidence": [
+      "Topic Modeling and Word Embeddings The Gaussian LDA model of BIBREF21 improves the performance of topic modeling by leveraging the semantic information encoded in word embeddings.",
+      "Word embedding models, which learn to encode dictionary words with vector space representations, have been shown to be valuable for a variety of natural language processing (NLP) tasks such as statistical machine translation BIBREF2 , part-of-speech tagging, chunking, and named entity recogition BIBREF3 , as they provide a more nuanced representation of words than a simple indicator vector into a dictionary. These models follow a long line of research in data-driven semantic representations of text, including latent semantic analysis BIBREF4 and its probabilistic extensions BIBREF5 , BIBREF6 . In particular, topic models BIBREF7 have found broad applications in computational social science BIBREF8 , BIBREF9 and the digital humanities BIBREF10 , where interpretable representations reveal meaningful insights.",
+      "I propose a probabilistic model-based word embedding method which can recover interpretable embeddings, without big data. The key insight is to leverage mixed membership modeling, in which global representations are shared, but individual entities (i.e. dictionary words) are free to use these representations to uniquely differing degrees. I show how to train the model using a combination of state-of-the-art training techniques for word embeddings and topic models."
+    ]
+  },
+  {
+    "title": "Luminoso at SemEval-2018 Task 10: Distinguishing Attributes Using Text Corpora and Relational Knowledge",
+    "answer": "By neutralizing the features after training, we keep the features that are working well as they are, and remove a part of the model that appears to purely represent overfitting; If we were to remove these features and re-train, or require non-negative coefficients as a constraint on the classifier, then other features would inherently become responsible for overfitting; In detail, these are the five sources of features we used:",
+    "evidence": [
+      "If we were to remove these features and re-train, or require non-negative coefficients as a constraint on the classifier, then other features would inherently become responsible for overfitting. By neutralizing the features after training, we keep the features that are working well as they are, and remove a part of the model that appears to purely represent overfitting.",
+      "In detail, these are the five sources of features we used:",
+      "By neutralizing the features after training, we keep the features that are working well as they are, and remove a part of the model that appears to purely represent overfitting. Indeed, clipping the negative coefficients in this way increased our performance on the validation set."
+    ]
+  },
+  {
+    "title": "Question Answering from Unstructured Text by Retrieval and Comprehension",
+    "answer": "This motivates us to introduce a neural network based approach for both retrieval and comprehension, since in this case the retrieval step can be directly trained to maximize the downstream performance.",
+    "evidence": [
+      "Hence we introduce a two-step retrieval and comprehension approach. Recently architecture:16 proposed a framework to use the performance on a downstream task (e.g. comprehension) as a signal to guide the learning of neural network which determines the input to the downstream task (e.g. retrieval). This motivates us to introduce neural network based approach for both retrieval and comprehension, since in this case the retrieval step can be directly trained to maximize the downstream performance."
+    ]
+  },
+  {
+    "title": "CM-Net: A Novel Collaborative Memory Network for Spoken Language Understanding",
+    "answer": "BiLSTMs + CRF architecture; sentence-state LSTM; CM-block",
+    "evidence": [
+      "Analysis ::: Evaluation on the CAIS We conduct experiments on our self-collected CAIS to evaluate the generalizability in different language. We apply two baseline models for comparison, one is the popular BiLSTMs + CRF architecture BIBREF36 for sequence labeling task, and the other one is the more powerful sententce-state LSTM BIBREF21.",
+      "Experimental results show that the CM-Net achieves the state-of-the-art results on the ATIS and SNIPS in most of criteria, and significantly outperforms the baseline models on the CAIS. Additionally, we make the CAIS dataset publicly available for the research community.",
+      "However, most existing models fail to fully utilize co-occurrence relations between slots and intents, which restricts their potential performance. To address this issue, in this paper we propose a novel Collaborative Memory Network (CM-Net) based on the well-designed block, named CM-block."
+    ]
+  },
+  {
+    "title": "Katecheo: A Portable and Modular System for Multi-Topic Question Answering",
+    "answer": "pre-trained models; BiDAF; publicly available, pre-trained models and knowledge base articles extracted from Stack Exchange sites",
+    "evidence": [
+      "We demonstrate the system using publicly available, pre-trained models and knowledge base articles extracted from Stack Exchange sites.",
+      "We are using a pre-trained version of BiDAF available in the AllenNLP BIBREF7 library.",
+      "In Section 4, we report some results using example pre-trained models and public knowledge base articles. Then in conclusion, we summarize the system, its applicability, and future development work."
+    ]
+  },
+  {
+    "title": "Mind Your Language: Abuse and Offense Detection for Code-Switched Languages",
+    "answer": "The embeddings were trained on both the datasets provided by and HEOT.",
+    "evidence": [
+      "The embeddings were trained on both the datasets provided by BIBREF1 and HEOT. These embeddings help to learn distributed representations of tweets."
+    ]
+  },
+  {
+    "title": "ThisIsCompetition at SemEval-2019 Task 9: BERT is unstable for out-of-domain samples",
+    "answer": "Despite this, JESSI performs second on Subtask A with an F1 score of 77.78% among 33 other team submissions.",
+    "evidence": [
+      "JESSI is trained using only the datasets given on the shared task, without using any additional external data. Despite this, JESSI performs second on Subtask A with an F1 score of 77.78% among 33 other team submissions. It also performs well on Subtask B with an F1 score of 79.59%."
+    ]
+  },
+  {
+    "title": "STransE: a novel embedding model of entities and relationships in knowledge bases",
+    "answer": "The STransE model defines a score function $f_r(h, t)$ of its implausibility.",
+    "evidence": [
+      "Our approach Let $\\mathcal {E}$ denote the set of entities and $\\mathcal {R}$ the set of relation types. For each triple $(h, r, t)$ , where $h, t \\in \\mathcal {E}$ and $r \\in \\mathcal {R}$ , the STransE model defines a score function $f_r(h, t)$ of its implausibility. Our goal is to choose $f$ such that the score $f_r(h,t)$ of a plausible triple $(h,r,t)$ is smaller than the score $f_{r^{\\prime }}(h^{\\prime },t^{\\prime })$ of an implausible triple $\\mathcal {R}$0 ."
+    ]
+  },
+  {
+    "title": "Question Answering by Reasoning Across Documents with Graph Convolutional Networks",
+    "answer": "Wikipedia.",
+    "evidence": [
+      "WikiHop is assembled assuming that there exists a corpus and a knowledge base (KB) related to each other. The KB contains triples $\\langle s, r, o \\rangle $ where $s$ is a subject entity, $o$ an object entity, and $r$ a unidirectional relation between them. BIBREF0 used Wikipedia as corpus and Wikidata BIBREF15 as KB."
+    ]
+  },
+  {
+    "title": "Good-Enough Compositional Data Augmentation",
+    "answer": "They determine similar environments by identifying a pair of fragments that appear in some common sub-sentential environment.",
+    "evidence": [
+      "Our data augmentation protocol aims to discover substitutable sentence fragments (highlighted), with the fact a pair of fragments appear in some common sub-sentential environment (underlined) taken as evidence that the fragments belong to a common category. To generate a new examples for the model, an occurrence of one fragment is removed from a sentence to produce a sentence template, which is then populated with the other fragment."
+    ]
+  },
+  {
+    "title": "Lattice CNNs for Matching Based Chinese Question Answering",
+    "answer": "DBQA and KBRE datasets.",
+    "evidence": [
+      "Here, we mainly describe the main results on the DBQA dataset, while we find very similar trends on the KBRE dataset."
+    ]
+  },
+  {
+    "title": "Self-Taught Convolutional Neural Networks for Short Text Clustering",
+    "answer": "SearchSnippets; Biomedical",
+    "evidence": [
+      "Second, in this paper we use a new short text dataset, Biomedical, in the experiment to verify the effectiveness of our approach. Third, we put much effort on studying the influence of various different semantic features integrated in our self-taught CNN framework, which is not involved in the conference paper. For the purpose of reproducibility, we make the datasets and software used in our experiments publicly available at the website.",
+      "SearchSnippets. This dataset was selected from the results of web search transaction using predefined phrases of 8 different domains by Phan et al.",
+      "Our main contributions can be summarized as follows: This work is an extension of our conference paper BIBREF16 , and they differ in the following aspects. First, we put forward a general a self-taught CNN framework in this paper which can flexibly couple various semantic features, whereas the conference version can be seen as a specific example of this work. Second, in this paper we use a new short text dataset, Biomedical, in the experiment to verify the effectiveness of our approach."
+    ]
+  },
+  {
+    "title": "Self-Attentional Models Application in Task-Oriented Dialogue Generation Systems",
+    "answer": "Dialogue State Tracking Competition 2 (DSTC2) dataset; M2M-sim-M (dataset in movie domain); M2M-sim-R (dataset in restaurant domain)",
+    "evidence": [
+      "Experiments ::: Datasets We use three different datasets for training the models. We use the Dialogue State Tracking Competition 2 (DSTC2) dataset BIBREF27 which is the most widely used dataset for research on task-oriented chatbots. We also used two other datasets recently open-sourced by Google Research BIBREF28 which are M2M-sim-M (dataset in movie domain) and M2M-sim-R (dataset in restaurant domain).",
+      "Table TABREF12 shows the statistics of these three datasets which we will use to train and evaluate the models. The M2M dataset has more diversity in both language and dialogue flow compared to the the commonly used DSTC2 dataset which makes it appealing for the task of creating task-oriented chatbots."
+    ]
+  },
+  {
+    "title": "Using Gaussian Processes for Rumour Stance Classification in Social Media",
+    "answer": "The central concept of Gaussian Process Classification (GPC; ) is a latent function $f$ over inputs $\\mathbf {x}$ : $f(\\mathbf {x}) \\sim \\ \\mathcal {GP}(m(\\mathbf {x}), k(\\mathbf {x}, \\mathbf {x}^{\\prime }))$, where $m$ is the mean function, assumed to be 0 and $k$ is the kernel function, specifying the degree",
+    "evidence": [
+      "We use Gaussian Processes as this probabilistic kernelised framework avoids the need for expensive cross-validation for hyperparameter selection. Instead, the marginal likelihood of the data can be used for hyperparameter selection. The central concept of Gaussian Process Classification (GPC; BIBREF30 ) is a latent function $f$ over inputs $\\mathbf {x}$ : $f(\\mathbf {x}) \\sim \\ \\mathcal {GP}(m(\\mathbf {x}), k(\\mathbf {x}, \\mathbf {x}^{\\prime }))$ , where $m$ is the mean function, assumed to be 0 and $k$ is the kernel function, specifying the degree to which the outputs covary as a function of the inputs."
+    ]
+  },
+  {
+    "title": "Open Named Entity Modeling from Embedding Distribution",
+    "answer": "This is the reported state-of-the-art result in their github.",
+    "evidence": [
+      "[10] This is the reported state-of-the-art result in their github. [11]We use the same parameters as the authors release in https://github.com/zalandoresearch/flair/issues/173 and obtain the result of 89.45 on ONTONOTES 5.0 dataset."
+    ]
+  },
+  {
+    "title": "Learning Relational Dependency Networks for Relation Extraction",
+    "answer": "They learn jointly.",
+    "evidence": [
+      "Joint learning To address our next question, we assessed our pipeline when learning relations independently (i.e., individually) versus learning relations jointly within the RDN, displayed in Table TABREF22 . Recall and F1 are omitted for conciseness – the conclusions are the same across all metrics. Joint learning appears to help in about half of the relations (8/14)."
+    ]
+  },
+  {
+    "title": "Smarnet: Teaching Machines to Read and Comprehend Like Human",
+    "answer": "Specifically, we first propose a novel lexical gating mechanism to dynamically combine the words and characters representations.",
+    "evidence": [
+      "In this paper, we address these problems from the viewpoint of how humans deal with reading tests in a scientific way. Specifically, we first propose a novel lexical gating mechanism to dynamically combine the words and characters representations. We then guide the machines to read in an interactive way with attention mechanism and memory network."
+    ]
+  },
+  {
+    "title": "Assessing the Applicability of Authorship Verification Methods",
+    "answer": "A self-compiled corpus.",
+    "evidence": [
+      "In the following, we introduce our three self-compiled corpora, where each corpus represents a different challenge."
+    ]
+  },
+  {
+    "title": "A Multi-cascaded Deep Model for Bilingual SMS Classification",
+    "answer": "The dataset consists of SMS feedbacks of the citizens of Pakistan on different public services availed by them.",
+    "evidence": [
+      "Dataset Acquisition and Description The dataset consists of SMS feedbacks of the citizens of Pakistan on different public services availed by them. The objective of collecting these responses is to measure the performance of government departments rendering different public services. Preprocessing of the data is kept minimal."
+    ]
+  },
+  {
+    "title": "Putting Self-Supervised Token Embedding on the Tables",
+    "answer": "They can be under the form of tables containing diverse elements, words and numbers, afterwards referred to as tokens.",
+    "evidence": [
+      "1 , they can be under the form of tables containing diverse elements, words and numbers, afterwards referred to as tokens. These tables are often implicitly defined, which means that there are no special tags between what is or not part of the table, or even between cells."
+    ]
+  },
+  {
+    "title": "Select and Attend: Towards Controllable Content Selection in Text Generation",
+    "answer": "The model is trained end-to-end without human annotations by maximizing a lower bound of the marginal likelihood.",
+    "evidence": [
+      "This paper tackles this problem by decoupling content selection from the decoder. The decoupled content selection is human interpretable, whose value can be manually manipulated to control the content of generated text. The model can be trained end-to-end without human annotations by maximizing a lower bound of the marginal likelihood."
+    ]
+  },
+  {
+    "title": "Question Answering based Clinical Text Structuring Using Pre-trained Language Model",
+    "answer": "This kind of method focus on language itself, so it can handle tasks more general; While final answer varies from task to task, which truly causes non-uniform output formats, finding the answer-related text is a common action among all tasks; Clinical text structuring (CTS) is a critical task for fetching medical research data from electronic health records (EHRs), where structural patient medical data, such as whether the patient has specific symptoms, diseases, or what the tumor",
+    "evidence": [
+      "This kind of method focus on language itself, so it can handle tasks more general.",
+      "Clinical text structuring (CTS) is a critical task for fetching medical research data from electronic health records (EHRs), where structural patient medical data, such as whether the patient has specific symptoms, diseases, or what the tumor size is, how far from the tumor is cut at during the surgery, or what the specific laboratory test result is, are obtained.",
+      "While final answer varies from task to task, which truly causes non-uniform output formats, finding the answer-related text is a common action among all tasks. Traditional methods regard both the steps as a whole."
+    ]
+  },
+  {
+    "title": "MedDialog: A Large-scale Medical Dialogue Dataset",
+    "answer": "Chinese.",
+    "evidence": [
+      "Dataset ::: Limitations of the dataset The language is Chinese, which is not easy for non-Chinese-speaking researchers to work on. The patients are from China."
+    ]
+  },
+  {
+    "title": "Image Captioning: Transforming Objects into Words",
+    "answer": "BLEU; ROUGE; Karpathy validation and test splits",
+    "evidence": [
+      "Dataset and Metrics We trained and evaluated our algorithm on the Microsoft COCO (MS-COCO) 2014 Captions dataset BIBREF21 . We report results on the Karpathy validation and test splits BIBREF8 , which are commonly used in other image captioning publications.",
+      "While it has been shown experimentally that BLEU and ROUGE have lower correlation with human judgments than the other metrics BIBREF23 , BIBREF22 , the common practice in the image captioning literature is to report all the mentioned metrics.",
+      "In this work we introduce the Object Relation Transformer, that builds upon this approach by explicitly incorporating information about the spatial relationship between input detected objects through geometric attention. Quantitative and qualitative results demonstrate the importance of such geometric attention for image captioning, leading to improvements on all common captioning metrics on the MS-COCO dataset."
+    ]
+  },
+  {
+    "title": "Binary and Multitask Classification Model for Dutch Anaphora Resolution: Die/Dat Prediction",
+    "answer": "103,871; 1,269,091; 736,987; 532,104",
+    "evidence": [
+      "Firstly, the data is divided into batch sizes of 512 instead of 128.",
+      "The resulting train and test sets consist of 103,871 (Europarl) and 1,269,091 (SoNaR) sentences. The SoNaR dataset, on the other hand, has more than ten times the number of labeled sentences with 736,987 dat-labeled and 532,104 die-labeled.",
+      "Table TABREF22 shows, however, that there is little consistent difference in performance when batch size is 512 or 128. Therefore, it can be suggested that an increased batch size has no directly positive influence on model performance. Secondly, the input data is transformed to 200-dimensional word embeddings instead of 100-dimensional word embeddings."
+    ]
+  },
+  {
+    "title": "Question Generation by Transformers",
+    "answer": "WER analyses was applied to diagnose shortcomings and guide future improvements.",
+    "evidence": [
+      "WER analyses was applied to diagnose shortcomings and guide future improvements."
+    ]
+  },
+  {
+    "title": "Garbage In, Garbage Out? Do Machine Learning Application Papers in Social Computing Report Where Human-Labeled Training Data Comes From?",
+    "answer": "It is used to turn qualitative or unstructured data into structured and/or quantitative data.",
+    "evidence": [
+      "Today, structured content analysis (also called “closed coding”) is used to turn qualitative or unstructured data of all kinds into structured and/or quantitative data, including media texts, free-form survey responses, interview transcripts, and video recordings. Projects usually involve teams of “coders” (also called “annotators”, “labelers”, or “reviewers”), with human labor required to “code”, “annotate”, or “label” a corpus of items."
+    ]
+  },
+  {
+    "title": "BERT-Based Arabic Social Media Author Profiling",
+    "answer": "To further improve the performance of our models, we introduce in-house labeled data that we use to fine-tune BERT; Data Augmentation; These data can come in the form of usage and behavior (e.g., who likes what on Facebook), network (e.g., who follows a given user on Instagram), and content (e.g., what people post to Twitter).",
+    "evidence": [
+      "Experiments ::: Tweet-Level Models ::: Data Augmentation. To further improve the performance of our models, we introduce in-house labeled data that we use to fine-tune BERT.",
+      "These data can come in the form of usage and behavior (e.g., who likes what on Facebook), network (e.g., who follows a given user on Instagram), and content (e.g., what people post to Twitter). Availability of such data have made it possible to make discoveries about individuals and communities, mobilizing social and psychological research and employing natural language processing methods."
+    ]
+  },
+  {
+    "title": "A General-Purpose Tagger with Convolutional Neural Networks",
+    "answer": "capturing sub-word informations.",
+    "evidence": [
+      "Recently, character composition models have shown great success in many NLP tasks, mainly because of their robustness in dealing with out-of-vocabulary (OOV) words by capturing sub-word informations."
+    ]
+  },
+  {
+    "title": "Semi-Supervised Neural Text Generation by Joint Learning of Natural Language Generation and Natural Language Understanding Models",
+    "answer": "non-annotated datasets; semi-supervised learning approach; unpaired datasets; semi-supervised deep learning scheme; non-annotated data; unpaired data; limited amount of annotated data",
+    "evidence": [
+      "On the contrary, large amount of unpaired meaning representations and texts can be available but cannot be exploited for supervised learning. In order to tackle this problem, we propose a semi-supervised learning approach which is able to benefit from unpaired (non-annotated) dataset which are much easier to acquire in real life applications. In an unpaired dataset, only the input data is assumed to be representative of the task.",
+      "Such deep models need a large amount of carefully annotated data to reach satisfactory performance. However, acquiring such datasets for every new NLG application is a tedious and time-consuming task. In this paper, we propose a semi-supervised deep learning scheme that can learn from non-annotated data and annotated data when available.",
+      "It uses an NLG and a Natural Language Understanding (NLU) sequence-to-sequence models which are learned jointly to compensate for the lack of annotation. Experiments on two benchmark datasets show that, with limited amount of annotated data, the method can achieve very competitive results while not using any pre-processing or re-scoring tricks. These findings open the way to the exploitation of non-annotated datasets which is the current bottleneck for the E2E NLG system development to new applications."
+    ]
+  },
+  {
+    "title": "Brazilian Lyrics-Based Music Genre Classification Using a BLSTM Network",
+    "answer": "Word embeddings is a technique to represent words as real vectors, so that these vectors maintain some semantic aspects of the real words.",
+    "evidence": [
+      "Methods ::: Word Embeddings Word embeddings is a technique to represent words as real vectors, so that these vectors maintain some semantic aspects of the real words."
+    ]
+  },
+  {
+    "title": "Is preprocessing of text really worth your time for online comment classification?",
+    "answer": "LR, NBSVM, XGBoost, Bidirectional LSTM model using fastText’s skipgram word vector;",
+    "evidence": [
+      "Considering the fact that the data scientists spend approximately 80% of their time in collecting, cleaning and organizing their data [1], we explored how much effort should we invest in the preprocessing (transformation) of raw comments before feeding it to the state-of-the-art classification models. With the help of four models on Jigsaw toxic comment classification data, we demonstrated that the training of model without any transformation produce relatively decent model.",
+      "Most of the authors used conventional ML models such as SVM, LR, RF and NB. We are expanding our candidate pool for transformations and using latest state-of-the-art models such as LR, NBSVM, XGBoost and Bidirectional LSTM model using fastText’s skipgram word vector.",
+      "The comments contain lot of typos which increases the number of features manifold, making the ML model difficult to train. Considering the fact that the data scientists spend approximately 80% of their time in collecting, cleaning and organizing their data [1], we explored how much effort should we invest in the preprocessing (transformation) of raw comments before feeding it to the state-of-the-art classification models."
+    ]
+  },
+  {
+    "title": "Empirical Study on Detecting Controversy in Social Media",
+    "answer": "The quick turn of sentiment polarity serves as a measurement of the event being controversy.",
+    "evidence": [
+      "The quick turn of sentiment polarity serves as an measurement of the event being controversy. Through the validation of the domain of the URLs quoted in the clustered tweets, the authentication of the event is verified. All of the elements of this event indicate that a controversy, specifically, a social related controversy, has occurred."
+    ]
+  },
+  {
+    "title": "Modeling Event Background for If-Then Commonsense Reasoning Using Context-aware Variational Autoencoder",
+    "answer": "RNN-based Seq2Seq proposed by (no author mentioned); Atomic Dataset Inspired by Event2Mind",
+    "evidence": [
+      "Experiments ::: Baselines We compared our proposed model with the following four baseline methods: RNN-based Seq2Seq proposed by BIBREF4 (BIBREF4) for the If-Then reasoning on Atomic.",
+      "Atomic Dataset Inspired by Event2Mind, the Atomic dataset shares the same hierarchical structure as Event2Mind, while scales up the size of dataset and expands the scope to nine types of inference dimensions. Table TABREF3 shows the (base event-inference dimension-target) hierarchical structure through an example from Atomic."
+    ]
+  },
+  {
+    "title": "Structural Scaffolds for Citation Intent Classification in Scientific Publications",
+    "answer": "47K; 50K; 91K; 73K; 8; 32",
+    "evidence": [
+      "Overall, the size of the data for scaffold tasks on the ACL-ARC dataset is about 47K (section title scaffold) and 50K (citation worthiness) while on SciCite is about 91K and 73K for section title and citation worthiness scaffolds, respectively.",
+      "For example, the following hyperparameters are used for the ACL-ARC. Citation worthiness saffold: $\\lambda _2{=}0.08$ , $\\lambda _3{=}0$ , section title scaffold: $\\lambda _3{=}0.09$ , $\\lambda _2{=}0$ ; both scaffolds: $\\lambda _2{=}0.1$ , $\\lambda _3{=}0.05$ . Batch size is 8 for ACL-ARC dataset and 32 for SciCite dataset (recall that SciCite is larger than ACL-ARC).",
+      "ACL-ARC citations dataset ACL-ARC is a dataset of citation intents released by BIBREF7 . The dataset is based on a sample of papers from the ACL Anthology Reference Corpus BIBREF15 and includes 1,941 citation instances from 186 papers and is annotated by domain experts in the NLP field."
+    ]
+  },
+  {
+    "title": "Learn to Code-Switch: Data Augmentation using Copy Mechanism on Language Modeling",
+    "answer": "Table; multilingual communities",
+    "evidence": [
+      "A linguistics constraint-driven generation approach such as equivalent constraint BIBREF5 , BIBREF6 is not restrictive to languages with distinctive grammar structure.",
+      "Our language modeling result is given in Table TABREF9 .",
+      "Language mixing has been a common phenomenon in multilingual communities. It is motivated in response to social factors as a way of communication in a multicultural society."
+    ]
+  },
+  {
+    "title": "QuaRel: A Dataset and Models for Answering Questions about Qualitative Relationships",
+    "answer": "They are expressed in the dataset.",
+    "evidence": [
+      "Our dataset, described later, includes logical forms expressed in this language."
+    ]
+  },
+  {
+    "title": "The Wiki Music dataset: A tool for computational analysis of popular music",
+    "answer": "a list of popular music genres by decade",
+    "evidence": [
+      "To do so, we collected a list of popular music genres by decade from Wikipedia and instructed annotators to score them. The paper is structured as follows: In section SECREF2 we provide a brief history of popular music, in section SECREF3 we describe the dataset and in section SECREF4 we provide the results of the experiments."
+    ]
+  },
+  {
+    "title": "Learning Twitter User Sentiments on Climate Change with Limited Labeled Data",
+    "answer": "The East Coast Bomb Cyclone, the Mendocino, California wildfires, the Camp Fire, the Woolsey Fire.",
+    "evidence": [
+      "The second data batch consists of event-related tweets for five natural disasters occurring in the U.S. in 2018. These are: the East Coast Bomb Cyclone (Jan. 2 - 6); the Mendocino, California wildfires (Jul."
+    ]
+  },
+  {
+    "title": "QnAMaker: Data to Bot in 2 Minutes",
+    "answer": "QnAMaker Portal; Extraction; QnAMaker WebApp",
+    "evidence": [
+      "System description ::: Architecture As shown in Figure FIGREF4, humans can have two different kinds of roles in the system: Bot-Developers who want to create a bot using the data they have, and End-Users who will chat with the bot(s) created by bot-developers. The components involved in the process are: QnAMaker Portal: This is the Graphical User Interface (GUI) for using QnAMaker. This website is designed to ease the use of management APIs.",
+      "System description ::: Extraction The Extraction component is responsible for understanding a given document and extracting potential QA pairs. These QA pairs are in turn used to create a KB to be consumed later on by the QnAMaker WebApp to answer user queries. First, the basic blocks from given documents such as text, lines are extracted."
+    ]
+  },
+  {
+    "title": "A Sketch-Based System for Semantic Parsing",
+    "answer": "The full test set has a higher accuracy than the hard test subset.",
+    "evidence": [
+      "Accuracy achieves 84.47% in full test set and 63.08% in hard test subset. Our accuracy in full test set supasses the 2nd place but is still lower than the 1st place by 1.21% while the accuracy on hard subset is higher than that of the 1st place by 5.65%."
+    ]
+  },
+  {
+    "title": "Inducing Interpretability in Knowledge Graph Embeddings",
+    "answer": "$Coherence@k$ (Equation 6 ), automated and manual word intrusion tests.",
+    "evidence": [
+      "For evaluating the interpretability, we use $Coherence@k$ (Equation 6 ) , automated and manual word intrusion tests."
+    ]
+  },
+  {
+    "title": "Community Identity and User Engagement in a Multi-Community Landscape",
+    "answer": "The average specificity of all utterances in.",
+    "evidence": [
+      "Community-level measures Having described these word-level measures, we now proceed to establish the primary axes of our typology: Distinctiveness. A community with a very distinctive identity will tend to have distinctive interests, expressed through specialized language. Formally, we define the distinctiveness of a community INLINEFORM0 as the average specificity of all utterances in INLINEFORM1 ."
+    ]
+  },
+  {
+    "title": "Event Outcome Prediction using Sentiment Analysis and Crowd Wisdom in Microblog Feeds",
+    "answer": "One can see the winners suggested by the Washington Post.",
+    "evidence": [
+      "One can see the winners suggested by the Washington Post in Table TABREF35. One of the winners in that debate according to them is Jeb Bush. Coincidentally, Figure FIGREF25 suggests that the sentiment of Bush has gone up one day after the debate (essentially, one day after the results given by the experts are out)."
+    ]
+  },
+  {
+    "title": "Probabilistic Bias Mitigation in Word Embeddings",
+    "answer": "We evaluated the embedding after 1000 iterations, and stopped training if performance on a benchmark decreased significantly.",
+    "evidence": [
+      "A batch of word indices is fed into the model, which are then embedded and for which a loss value is calculated, allowing back-propagation to adjust the embeddings. For each of the models, a fixed number of iterations is used to prevent overfitting, which can eventually hurt performance on the embedding benchmarks (See Figure FIGREF12). We evaluated the embedding after 1000 iterations, and stopped training if performance on a benchmark decreased significantly."
+    ]
+  },
+  {
+    "title": "Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction",
+    "answer": "3,200 sentences in 2 domains.",
+    "evidence": [
+      "Prior to the SAOKE data set, an annotated data set for OIE tasks with 3,200 sentences in 2 domains was released in BIBREF20 to evaluate OIE algorithms, in which the data set was said BIBREF20 “13 times larger than the previous largest annotated Open IE corpus”. The SAOKE data set is 16 times larger than the data set in BIBREF20 . To the best of our knowledge, SAOKE data set is the largest publicly available human labeled data set for OIE tasks."
+    ]
+  },
+  {
+    "title": "Classifying movie genres by analyzing text reviews",
+    "answer": "KNN model accuracy; Hamming loss; tf-idf; multi-label classification; accuracy; Hamming loss; Regular metrics; Implementation complexity; Data processing complexity; Evaluation complexity",
+    "evidence": [
+      "The paper also discusses different evaluation metrics used when doing multi-label classification. For the data used in this research, the KNN model performed the best with an accuracy of 55.4\\% and a Hamming loss of 0.047.",
+      "The data used are from Large Movie Review Dataset v1.0 and IMDb. This paper compared a K-nearest neighbors (KNN) model and a multilayer perceptron (MLP) that uses tf-idf as input features. The paper also discusses different evaluation metrics used when doing multi-label classification.",
+      "This paper also shows the complexity of doing prediction on multi-label problems, both in implementation and data processing but also when it comes to evaluation. Regular metrics typically work, but they mask the entire picture and the depth of how good a model is."
+    ]
+  },
+  {
+    "title": "BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs",
+    "answer": "10 CNNs, 10 LSTMs",
+    "evidence": [
+      "To reduce variance and boost accuracy, we ensemble 10 CNNs and 10 LSTMs together through soft voting. The models ensembled have different random weight initializations, different number of epochs (from 4 to 20 in total), different set of filter sizes (either INLINEFORM0 , INLINEFORM1 or INLINEFORM2 ) and different embedding pre-training algorithms (either Word2vec or FastText)."
+    ]
+  },
+  {
+    "title": "BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions",
+    "answer": "16,000",
+    "evidence": [
+      "Yes/No questions do appear as a subset of some existing datasets BIBREF3 , BIBREF4 , BIBREF5 . However, these datasets are primarily intended to test other aspects of question answering (QA), such as conversational QA or multi-step reasoning, and do not contain naturally occurring questions. We follow the data collection method used by Natural Questions (NQ) BIBREF6 to gather 16,000 naturally occurring yes/no questions into a dataset we call BoolQ (for Boolean Questions)."
+    ]
+  }
+]
