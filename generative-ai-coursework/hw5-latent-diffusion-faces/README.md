@@ -1,5 +1,7 @@
 # HW5 — Latent Diffusion Face Generation (from scratch)
 
+`diffusion models` `latent DDPM` `trained from scratch` `SD-VAE` `EMA` `FID`
+
 ## Assignment
 
 Train an image generative model **without any pretrained generator** (only the provided Stable-Diffusion VAE may be used) on a face dataset, then generate 3,000 images at 256×256. Graded by FID against a held-out set.

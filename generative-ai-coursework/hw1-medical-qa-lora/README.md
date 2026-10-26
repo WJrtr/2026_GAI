@@ -1,5 +1,7 @@
 # Medical Question Answering with Llama-3.2-1B-Instruct
 
+`LLM fine-tuning` `LoRA / PEFT` `4-bit quantization` `few-shot prompting` `chain-of-thought` `Llama-3.2` `Hugging Face Transformers`
+
 ## Assignment
 
 Answer pathology multiple-choice questions (4 options, label 0–3) using **only** `meta-llama/Llama-3.2-1B-Instruct` as the base model. Students may use prompting strategies and parameter-efficient fine-tuning; predictions on a hidden benchmark set are graded by accuracy.

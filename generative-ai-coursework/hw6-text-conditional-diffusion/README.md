@@ -1,5 +1,7 @@
 # HW6 — Brainrot Conditional Image Generation (64×64)
 
+`conditional diffusion` `EDM` `classifier-free guidance` `CLIP conditioning` `custom U-Net` `FID / CLIP score`
+
 ## Assignment
 
 Train a **text-conditional** generator from scratch for 64×64 "brainrot" images (an animal + an object, e.g. *a shark and a sneaker*; 10 animals × 10 objects) and generate 2,000 images for given prompts. Graded by FID (image quality) and CLIP-T score (text–image alignment) against baseline thresholds.

@@ -1,5 +1,7 @@
 # HW3 — Hallucination Type Classification in Peer Reviews (RAG + QLoRA)
 
+`RAG` `QLoRA` `Unsloth` `Qwen2.5-3B` `PDF parsing` `BGE reranker` `class imbalance` `Macro-F1`
+
 ## Assignment
 
 Each sample is a claim from an AI-generated peer review together with the reviewed paper (PDF). Classify which **type of hallucination** the claim contains (5 classes, e.g. entity, attribution, over-generalization, number, temporal). Graded by Macro-F1 on a Kaggle leaderboard.

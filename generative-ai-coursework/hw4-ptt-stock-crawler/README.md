@@ -1,5 +1,7 @@
 # HW4 — PTT Stock Board Crawler
 
+`web crawling` `httpx` `lxml / XPath` `concurrency` `profiling & optimization` `CLI tooling`
+
 ## Assignment
 
 Write a single Python script that crawls **every 2025 article on the PTT Stock board** and exposes four CLI subcommands: `crawl` (all articles + 推爆 articles to JSONL), `push` (push/boo counts and top-10 commenters in a date range), `popular` (推爆 articles and their image URLs), and `keyword` (articles whose body contains a keyword, plus image URLs). Graded by IoU against reference outputs under strict time limits.

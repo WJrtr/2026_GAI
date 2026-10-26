@@ -1,5 +1,7 @@
 # HW2 — Document Question Answering with RAG
 
+`RAG` `hybrid retrieval (BM25 + dense)` `HyDE` `cross-encoder reranking` `BGE` `Ollama REST API` `Llama-3.2-3B`
+
 ## Assignment
 
 Given a research paper's full text and a question about it, build a RAG pipeline that (1) retrieves the supporting evidence passages from the paper and (2) generates a short answer with a small open LLM (Llama-3.2-3B-Instruct). The submission includes both the answer and the retrieved evidence for each question.
