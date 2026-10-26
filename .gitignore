@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Model weights / checkpoints (too large for GitHub)
+*.pth
+*.pt
+*.safetensors
+*.bin
+*.ckpt
+adapter_checkpoint/
+saved_models/
+checkpoints/
+model/
+outputs/
+cache/
+
+# Course data (not redistributed)
+dataset/
+datasets/
+public_data/
+data/trainset/
+data/*.csv
+
+# Secrets
+token.txt
+.hf_token
+.env
+
+# Editors / tools
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

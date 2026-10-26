@@ -1,0 +1,8 @@
+torch==2.10.0
+torchvision==0.25.0
+numpy>=2.0
+scipy>=1.13
+pillow>=10
+tqdm>=4.66
+open_clip_torch==3.3.0
+pytorch-fid==0.3.0

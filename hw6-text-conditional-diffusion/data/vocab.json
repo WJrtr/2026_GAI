@@ -1,0 +1,50 @@
+{
+  "animals": [
+    "bird",
+    "capybara",
+    "cat",
+    "crocodile",
+    "dog",
+    "elephant",
+    "fish",
+    "frog",
+    "monkey",
+    "shark"
+  ],
+  "objects": [
+    "airplane",
+    "banana",
+    "cactus",
+    "car",
+    "chair",
+    "coffee cup",
+    "drum",
+    "pizza",
+    "sneaker",
+    "toilet"
+  ],
+  "a2i": {
+    "bird": 0,
+    "capybara": 1,
+    "cat": 2,
+    "crocodile": 3,
+    "dog": 4,
+    "elephant": 5,
+    "fish": 6,
+    "frog": 7,
+    "monkey": 8,
+    "shark": 9
+  },
+  "o2i": {
+    "airplane": 0,
+    "banana": 1,
+    "cactus": 2,
+    "car": 3,
+    "chair": 4,
+    "coffee cup": 5,
+    "drum": 6,
+    "pizza": 7,
+    "sneaker": 8,
+    "toilet": 9
+  }
+}

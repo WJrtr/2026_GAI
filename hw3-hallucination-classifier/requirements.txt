@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+PyMuPDF
+rank-bm25
+sentence-transformers
+torch
+transformers
+datasets
+accelerate
+bitsandbytes
+peft
+trl
+unsloth
+
