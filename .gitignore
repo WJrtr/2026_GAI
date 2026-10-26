@@ -1,38 +1,6 @@
-# Python
-__pycache__/
-*.pyc
-.venv/
-venv/
-.ipynb_checkpoints/
-
-# Model weights / checkpoints (too large for GitHub)
-*.pth
-*.pt
-*.safetensors
-*.bin
-*.ckpt
-adapter_checkpoint/
-saved_models/
-checkpoints/
-model/
-outputs/
-cache/
-
-# Course data (not redistributed)
-dataset/
-datasets/
-public_data/
-data/trainset/
-data/*.csv
-
-# Secrets
-token.txt
-.hf_token
-.env
-
-# Editors / tools
-.claude/
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
+# Only publish the cleaned-up coursework folder.
+# Everything else here (original zips, extracted submissions, course spec PDFs, slides) stays local.
+/*
+!/.gitignore
+!/README.md
+!/generative-ai-coursework/
